@@ -974,7 +974,7 @@ function startAdminStatusMonitor(username, enteredPassword = null) {
                     errorMsg.classList.remove('hidden');
                 }
             } else {
-                errorMsg.innerText = "Approval pending. Contact Super Admin @sohanlalde";
+                errorMsg.innerText = "Approval pending. Contact Super Admin @hackerraja01";
                 errorMsg.classList.remove('hidden');
             }
         }
